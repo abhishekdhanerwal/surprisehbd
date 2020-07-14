@@ -1,0 +1,9 @@
+.bodyContainerMargin {
+    margin-top: 80px
+}
+
+@media(max-width: 1024px){
+    .bodyContainerMargin {
+        margin-top: 70px
+    }
+}
