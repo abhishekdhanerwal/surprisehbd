@@ -1,0 +1,41 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a3e0816193e58cf121387610d50752a8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.35f38d3583f54c90fa9f4d057c4e567e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.328ce918ade7210044e44edefbccfa22.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b44dc884a7956a7ae3c7a6f2365bbe1b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a53fa7f8d7c1d8923c24f90da86c8ca0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5d70e41fed86a50bedd2a40b38b00de2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "mQuote - illustration calculator",
+  "short_name": "mQuote",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "theme_color": "#db5945",
+  "background_color": "#ffffff"
+}
