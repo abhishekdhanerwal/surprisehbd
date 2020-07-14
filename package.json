@@ -16,7 +16,7 @@
     "prebuild:preprod": "npm-run-all clean-dist lint",
     "build:preprod": "babel-node tools/build.preProd.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "author": "abhishek",
   "license": "MIT",
